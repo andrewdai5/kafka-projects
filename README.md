@@ -1,3 +1,3 @@
 # kafka-projects
 
-Some fun Kafka side projects.
+Some fun Kafka side projects
